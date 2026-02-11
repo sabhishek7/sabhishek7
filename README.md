@@ -12,7 +12,7 @@
 
 ### 🏆 Github Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabhishek7&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sabhishek7&theme=radical&no-frame=true&margin-w=4" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/sabhishek7/sabhishek7/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sabhishek7/sabhishek7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
